@@ -50,7 +50,7 @@ colorcet==2.0.6
 commonmark==0.9.1
 concourse==0.0.0
 conda==3.0.6
-conda-build==3.21.8
+conda-build==1.19.1
 conda-content-trust==0+unknown
 conda-pack==0.6.0
 conda-package-handling==1.8.1
